@@ -1,2 +1,2 @@
-# Brick-Breaker
-Brick Breaker Game with p5.js
+# Brick_Breaker
+ Brick Breaker Game using p5.js
